@@ -1,0 +1,5 @@
+Aspirin,5
+Ibuprofen,3
+Paracetamol,3
+hii,2
+jesh,1
